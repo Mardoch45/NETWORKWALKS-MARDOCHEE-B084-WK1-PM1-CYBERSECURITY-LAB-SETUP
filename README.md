@@ -78,9 +78,9 @@ Additional target machines can be added to the same virtual network in future pr
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------  |
-| 🖥️ Host OS         | Windows 10         |
-| 🧠 Host RAM        | 8 GB               |
-| ⚡ Processor       | Intel Core i7      |
+| 🖥️ Host OS         | Ubuntu             |
+| 🧠 Host RAM        | 16 GB              |
+| ⚡ Processor       | Intel Core i5      |
 | 🧰 Hypervisor      | VirtualBox 7.2  |
 | 🐉 Security OS     | Kali Linux 2026.2  |
 | 🧠 Kali RAM        | 2048 MB            |
@@ -216,8 +216,6 @@ DNS:
 ---
 
 # 🐞 Problems Encountered & Solutions
-
-Documenting problems is an important part of the project.
 
 ## Problem 1. Internet Connectivity After Static IP Configuration
 
